@@ -29,9 +29,9 @@ UI: Jetpack Compose (Material 3)
 [Завантажити MyMeds.apk](https://github.com/needtools/MyMeds/releases/latest)
 
 <p align="center">
-  <img src="meds.png">&nbsp;&nbsp;
-  <img src="settings.png">&nbsp;&nbsp;
-  <img src="history.png">&nbsp;&nbsp;
+  <img src="meds.png">&nbsp;
+  <img src="settings.png">&nbsp;
+  <img src="history.png">&nbsp;
   <img src="edit.png">
 </p>
 
