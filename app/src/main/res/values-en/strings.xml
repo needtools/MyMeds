@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My medicines</string>
+    <string name="button_take">Taken</string>
+    <string name="form_field">Medicine form</string>
+    <string name="pill_name">Name of medication: </string>
+    <string name="pill_dose">   Dose: </string>
+    <string name="add_pill">Add pill</string>
+    <string name="back">Back</string>
+    <string name="dose">Dose</string>
+    <string name="intakes">Number of receptions per day</string>
+    <string name="add_time">Add time</string>
+    <string name="delete">Delete</string>
+    <string name="instruction">How to take</string>
+    <string name="form_pill">Pill form</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cansel</string>
+    <string name="form_tablet">Pills</string>
+    <string name="form_capsule">Capsules</string>
+    <string name="form_syrup">Syrup</string>
+    <string name="form_spray">Spray</string>
+    <string name="form_ointment">Ointment</string>
+    <string name="form_solution">Solution</string>
+    <string name="form_injection">Injection</string>
+    <string name="form_suppository">Suppository</string>
+    <string name="form_powder">Powder</string>
+    <string name="other">Other</string>
+    <string name="edit_pill">Edit medicine</string>
+    <string name="time_remind">Remind time:</string>
+    <string name="now_no_pill">You currently have no scheduled medications. Click the "+" button to add one or "i" to familiarize yourself with the program.</string>
+    <string name="delete_pill">Delete medicine</string>
+    <string name="are_you_sure">Are you sure you want to remove these medications?</string>
+    <string name="intake_before_meals">Before meals</string>
+    <string name="intake_with_meals">With meals</string>
+    <string name="intake_after_meals">After meals</string>
+    <string name="intake_morning">In the morning</string>
+    <string name="intake_evening">In the evening</string>
+    <string name="intake_before_bedtime">Before bedtime</string>
+    <string name="intake_duration">Course (days):</string>
+    <string name="notes">Notes:</string>
+    <string name="permanent_course">Always</string>
+    <string name="enter_custom_instructions">Enter custom instruction</string>
+    <string name="custom_instructions">Сustom instruction</string>
+    <string name="enter_custom_form">Enter custom form</string>
+    <string name="custom_form">Custom form</string>
+    <string name="passed">Passed:</string>
+    <string name="course_finished_today">Сourse was finished today</string>
+    <string name="course_finished">Сourse is finished</string>
+    <string name="days_ago">days ago</string>
+    <string name="move_up">Move up</string>
+    <string name="move_down">Move down</string>
+    <string name="info">Information</string>
+    <string name="info_how">
+    "How to use the application:\n\n"
+"1. Click the '+' button to add new medications.\n"
+"2. Fill in the name, form of the medication, dosage and select the course of administration and number of doses per day. \n"
+"3. To receive reminders, add the times of administration by clicking on the 'Add reminder time' button.\n"
+"4. Add the information 'How to take' and 'Notes'\n"
+"5. If you click 'Other' in the 'Form of medication' and 'How to take' fields, you can enter personal data that is not in the list\n"
+"6. Save the medication and go to the main screen.\n"
+"7. On the main screen, you can see the cards of all your medications and track the medication intake.\n"
+"8. To edit the medication, swipe the medication card to the right. After editing, click the 'Save changes' button.\n"
+"9. To delete the medication, swipe the medication card to the right. Click the 'Delete' button.\n This will also delete all reception history.\n"
+"10. To view your medication history, swipe the medication card to the left. To return to the main screen, click the arrow.\n"
+    "11. To configure the application, click the gear icon."</string>
+    <string name="HHmm">HH:mm</string>
+    <string name="add">Add</string>
+    <string name="intake_history">Intake history</string>
+    <string name="downloading">Downloading</string>
+    <string name="no_intake_history">No intake history.</string>
+    <string name="intake_at">Intake at</string>
+    <string name="no_meds">The list is empty. Add medicine!</string>
+    <string name="time">⏰</string>
+    <string name="settings">Settings</string>
+    <string name="how_long">How many days to keep a medication history:</string>
+    <string name="how_many_days">Number of days</string>
+    <string name="sound">Sound notifications:</string>
+    <string name="save_back">Save settings and return</string>
+    <string name="check_time">Choose a time to take your medication</string>
+</resources>

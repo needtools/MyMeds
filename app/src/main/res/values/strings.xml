@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Мої ліки</string>
+    <string name="button_take">Прийнято</string>
+    <string name="form_field">Форма ліків</string>
+    <string name="pill_name">Назва ліків: </string>
+    <string name="pill_dose">   Доза: </string>
+    <string name="add_pill">Додати ліки</string>
+    <string name="back">Назад</string>
+    <string name="dose">Доза</string>
+    <string name="intakes">Кількість прийомів на день</string>
+    <string name="add_time">Додати час</string>
+    <string name="delete">Видалити</string>
+    <string name="instruction">Як приймати</string>
+    <string name="form_pill">Форма ліків</string>
+    <string name="save">Зберегти</string>
+    <string name="cancel">Скасувати</string>
+    <string name="form_tablet">"Таблетки</string>
+    <string name="form_capsule">Капсули"</string>
+    <string name="form_syrup">Сироп</string>
+    <string name="form_spray">Спрей</string>
+    <string name="form_ointment">Мазь</string>
+    <string name="form_solution">Рідина</string>
+    <string name="form_injection">Ін\'єкція</string>
+    <string name="form_suppository">Супозіторії</string>
+    <string name="form_powder">Порошок</string>
+    <string name="other">Інше</string>
+    <string name="edit_pill">Редагувати ліки</string>
+    <string name="time_remind">Час нагадування:</string>
+    <string name="now_no_pill">Наразі у вас немає запланованих ліків. Натисніть на кнопку «+», щоб додати лікі або «i», щоб ознаймитись з програмою.</string>
+    <string name="delete_pill">Видалити ліки</string>
+    <string name="are_you_sure">Ви впевнені, що хочете видалити ці ліки?</string>
+    <string name="intake_before_meals">До їжи</string>
+    <string name="intake_with_meals">Під час їжі</string>
+    <string name="intake_after_meals">Після їжі</string>
+    <string name="intake_morning">Вранці</string>
+    <string name="intake_evening">Ввечері</string>
+    <string name="intake_before_bedtime">Перед сном</string>
+    <string name="intake_duration">Курс (днів):</string>
+    <string name="notes">Примітки:</string>
+    <string name="permanent_course">Постійно</string>
+    <string name="enter_custom_instructions">Ввести власну інструкцію</string>
+    <string name="custom_instructions">Власна інструкція</string>
+    <string name="enter_custom_form">Ввести власну форму</string>
+    <string name="custom_form">"Власна форма</string>
+    <string name="passed">Пропущено:</string>
+    <string name="course_finished_today">Курс закінчився сьогодні</string>
+    <string name="course_finished">Курс скінчився</string>
+    <string name="days_ago">днів тому</string>
+    <string name="move_up">Перемістити вгору</string>
+    <string name="move_down">Перемістити вниз</string>
+    <string name="info">Інформація</string>
+    <string name="info_how">
+    "Як користуватися додатком:\n\n"
+    "1. Натисніть кнопку '+', щоб додати нові ліки.\n"
+    "2. Заповніть назву, форму ліків, дозування, оберіть курс прийому та кількість прийомів в день. \n"
+    "3. Для отримання нагадувань додайте часи прийому, натиснувши на кнопку 'Додати час нагадування'.\n"
+    "4. Додайте інформацію 'Як приймати' і 'Примітки'\n"
+        "5. Якщо в полях 'Форма ліків' та 'Як приймати' натиснути 'Інше' - можна ввести особисті дані, яких немає в списку\n"
+        "6. Збережіть ліки і перейдіть на головний екран.\n"
+    "7. На головному екрані ви зможете бачити карти всіх своїх ліків та відстежувати прийом ліків.\n"
+    "8. Для редагування ліків зробіть змахування карти ліків праворуч. Після редагування натисніть кнопку 'Зберегти зміни'.\n"
+        "9. Для видалення ліків зробіть змахування карти ліків праворуч. Натисніть кнопку 'Видалити'.\n Це також видалить всю історію прийомів.\n"
+        "10. Для того, щоб подивитись історію приймання ліків зробіть змахування карти ліків ліворуч. Для повернення на головний екран натисніть стрілочку.\n"
+        "11. Для налаштування додатку натисніть іконку з шестернею."
+
+    </string>
+    <string name="HHmm">ГГ:хх</string>
+    <string name="add">Додати</string>
+    <string name="intake_history">Історія прийому</string>
+    <string name="downloading">Завантаження</string>
+    <string name="no_intake_history">Історія прийому відсутня.</string>
+    <string name="intake_at">Прийнято о</string>
+    <string name="no_meds">Список порожній. Додайте ліки!</string>
+    <string name="time">⏰</string>
+    <string name="settings">Налаштування</string>
+    <string name="how_long">Скільки днів зберігати історію про приймання ліків:</string>
+    <string name="how_many_days">Кількість днів</string>
+    <string name="sound">Звукові сповіщення:</string>
+    <string name="save_back">Зберегти налаштування і повернутись</string>
+    <string name="check_time">Оберіть час прийому ліків</string>
+
+</resources>

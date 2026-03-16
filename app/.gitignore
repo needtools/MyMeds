@@ -1,0 +1,41 @@
+# Системні файли та кеш Gradle
+.gradle/
+/build/
+/captures/
+*.iml
+.externalNativeBuild
+.cxx
+local.properties
+
+# Налаштування Android Studio (IDE)
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/modules/
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/misc.xml
+.idea/vcs.xml
+
+# Файли пристроїв та логи
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+/proguard/
+*.log
+
+# Секрети та ключі (ВАЖЛИВО!)
+*.jks
+*.keystore
+google-services.json
+
+# Системні файли macOS/Windows
+.DS_Store
+Thumbs.db
